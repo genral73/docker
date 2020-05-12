@@ -1,4 +1,4 @@
-# Install Docker Engine on Ubuntu
+# Install Docker Engine on Ubuntu or Debian
 #### Uninstall old versions
 1. Older versions of Docker were called docker, docker.io, or docker-engine. If these are installed, uninstall them:
 ```bash
