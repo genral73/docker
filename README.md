@@ -71,6 +71,6 @@ docker run hello-world
 > 
 >   For more examples and ideas, visit:
 >     https://docs.docker.com/get-started/
-<hr/>
+
 ### Where to go next
 #####    [1. Install Docker Compose](https://github.com/genral73/docker-compose#install-compose-on-linux-systems)
